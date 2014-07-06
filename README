@@ -1,2 +1,5 @@
-A simple implementation of the counting method of sorting
-A fast sorting algorithm, but can use a lot of space
+A simple implementation of the "count sort" using python.
+
+Count sort is a O(n) sorting algorithm, specifically for sorting items whose keys are small integers. 
+
+For demonstration purposes only.
